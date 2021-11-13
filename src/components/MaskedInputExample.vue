@@ -28,7 +28,7 @@ function getNewCursorPosition(currPosition, element) {
 }
 
 export default {
-  name: "HelloWorld",
+  name: "MaskedInputExample",
   data() {
     return {
       value: "",
