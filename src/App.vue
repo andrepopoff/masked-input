@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld />
+    <MaskedInputExample />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
+import MaskedInputExample from "./components/MaskedInputExample";
 
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    MaskedInputExample,
   },
 };
 </script>
